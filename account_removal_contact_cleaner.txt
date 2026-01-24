@@ -1,0 +1,15 @@
+How to Delete Your Account and Data
+At Contact Cleaner, we give you full control over your personal information. If you wish to delete your account and all associated data, please follow these simple steps:
+
+Open the App: Launch Contact Cleaner on your mobile device.
+Go to Settings: Tap the Profile Picture on the main dashboard.
+Find Account Section: Scroll down to the "Account" or "Personal Information" section.
+Delete Account: Tap on the "Delete Account" button.
+Confirm Deletion: A confirmation dialog will appear warning you that this action is permanent. Tap "Delete" to confirm.
+What happens when you delete your account?
+
+Cloud Backups: All your contact backups stored on our Google Firebase servers will be immediately and permanently erased.
+Metadata: Your user profile, email association, and app settings will be deleted.
+No Recovery: This action cannot be undone. Once deleted, your data cannot be recovered.
+Note: Deleting the app from your phone does not automatically delete your cloud data. You must use the "Delete Account" feature within the app to ensure all server-side data is removed.
+
