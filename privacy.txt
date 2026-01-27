@@ -1,5 +1,5 @@
 Privacy Policy
-Last Updated: January 8, 2026
+Last Updated: January 27, 2026
 
 This Privacy Policy describes how InstaSaver ("we", "our", or "the App") handles information. We are committed to protecting your privacy and ensuring you have a safe experience.
 
@@ -9,22 +9,11 @@ We do not require you to create an account.
 We do not collect your name, email address, phone number, or any other contact details.
 We do not track your location or any unique device identifiers.
 
-2. No Tracking and Analytics
-We believe in absolute privacy.
-The App does not use any third-party tracking tools (such as Google Analytics, Firebase, or Facebook SDK).
-We do not monitor your usage patterns or how you interact with the App.
-
-3. Usage of Third-Party Links
-The App may allow you to interact with Instagram content. Please note that when you access Instagram or other third-party content, your interactions follow their respective privacy policies. We do not have control over how Instagram or other platforms handle your data.
-
-4. Local Storage Only
+2. Local Storage Only
 Any files downloaded through the App (images, videos, etc.) are saved directly to your device's local storage or gallery. We do not upload these files to any external servers, nor do we have access to your downloaded content.
 
-5. Permissions
-The App may request certain permissions (such as Storage/Gallery access) to save content to your device. These permissions are used exclusively for the App’s core functionality and nothing else.
-
-6. Security
+3. Security
 Since we do not collect any personal data, there is no personal data stored on our end that could be compromised. However, we recommend that you secure your own device to protect your downloaded files.
 
-7. Changes to This Policy
+5. Changes to This Policy
 We may update our Privacy Policy from time to time. Since we do not collect user data, we cannot notify you individually. We recommend checking this page periodically for any changes.
